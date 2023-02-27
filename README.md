@@ -23,3 +23,8 @@ Sample output for template:
 - Move disk 1 from rod B to rod A
 - Move disk 2 from rod B to rod C
 - Move disk 1 from rod A to rod C
+
+
+Commit for:
+Niklas Pawelzik (221791)
+Justus v. Samson-Himmelstjerna (222918)
